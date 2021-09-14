@@ -3,6 +3,7 @@
 Google Case study2: Analysis on Bellabeat
 
 **Scope of work**
+
 Purpose: The goal of this project is to analyse the smart device usage data to discover opportunities for Bellabeat in health and smart device industry.
 
 Project breakdown
@@ -13,10 +14,12 @@ Project breakdown
 Who is Bellabeat?
 A rapidly growing high-tech company that manufactures health-focused smart products for women.
 
-Deliverables:
-1. Clear summary of the business task.
-2. A description of all data sources used.
-3. Documentation of any cleaning or manipulation of data.
-4. A summary of your analysis.
-5. Supporting visualizations an dkey findings.
-6. Your top high-level content recommendations based on your analysis.
+Project Roadmap & Deliverables
+1. **ASK**: Clear summary of the business task.
+2. **PREPARE**: A description of all data sources used.
+3. **PROCESS**: Documentation of any cleaning or manipulation of data.
+4. **ANALYSE**: A summary of your analysis.
+5. **SHARE**: Supporting visualizations an dkey findings.
+6. **ACT**: Your top high-level content recommendations based on your analysis.
+
+
