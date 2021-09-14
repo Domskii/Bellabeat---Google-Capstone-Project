@@ -2,6 +2,8 @@
 
 Google Case study2: Analysis on Bellabeat
 
+How can a wellness company play it smart?
+
 **Scope of work**
 
 Purpose: The goal of this project is to analyse the smart device usage data to discover opportunities for Bellabeat in health and smart device industry.
